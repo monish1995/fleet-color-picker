@@ -9,7 +9,7 @@ This web application enables user to search images and extract dominant colors f
 * Click on color on right pane to copy hex code
 
 ## Demo
- [Click Here](https://github.com/monish1995/fleet-color-picker/build/index.html) for demo page
+ [Click Here](https://monish1995.github.io/fleet-color-picker/) for demo page
 
 ### Resources
 Repository: [Github](https://github.com/monish1995/fleet-color-picker)
